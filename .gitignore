@@ -45,3 +45,6 @@ Properties/
 
 # Configuration files (environment-specific)
 appsettings.*.json
+
+# API test files
+*.http
