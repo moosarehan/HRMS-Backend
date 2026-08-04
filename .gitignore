@@ -42,3 +42,6 @@ build/
 
 # Project properties
 Properties/
+
+# Configuration files (environment-specific)
+appsettings.*.json
