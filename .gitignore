@@ -20,9 +20,7 @@ obj/
 .nuget/
 
 # Entity Framework
-Migrations/*
-!Migrations/20260803110000_PreserveDeletedShiftAssignments.cs
-!Migrations/20260803115500_TrackFirstShiftAssignmentDate.cs
+# Migrations are tracked in version control
 
 # IDEs
 .idea/
