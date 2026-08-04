@@ -39,3 +39,6 @@ Thumbs.db
 # Build output
 dist/
 build/
+
+# Project properties
+Properties/
